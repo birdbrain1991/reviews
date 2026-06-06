@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Reviews</title>
+    <link>https://github.com/birdbrain1991/reviews</link>
+    <description>Bewertungen</description>
+    <language>de</language>
+    <lastBuildDate>Sat, 06 Jun 2026 04:55:01 +0000</lastBuildDate>
+    <item>
+      <title>test — ★★★★★ [Film]</title>
+      <link>https://raw.githubusercontent.com/birdbrain1991/reviews/main/cards/1.png</link>
+      <guid isPermaLink="false">1</guid>
+      <pubDate>Sat, 06 Jun 2026 04:54:57 +0000</pubDate>
+      <description><![CDATA[<p><em>test</em></p><p>★★★★★ 5/5</p><p>test rss feed</p><p><img src="https://raw.githubusercontent.com/birdbrain1991/reviews/main/cards/1.png" alt=""/></p>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/birdbrain1991/reviews/main/cards/1.png" type="image/png"/>
+    </item>
+  </channel>
+</rss>
