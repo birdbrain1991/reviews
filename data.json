@@ -1,5 +1,5 @@
 {
-  "updated": 1780722322792,
+  "updated": 1780722487323,
   "reviews": [
     {
       "id": 1,
@@ -10,16 +10,6 @@
       "comment": "test rss feed",
       "createdAt": 1780721697345,
       "cardUrl": "https:\/\/raw.githubusercontent.com\/birdbrain1991\/reviews\/main\/cards\/1.png"
-    },
-    {
-      "id": 2,
-      "title": "Ohne Titel",
-      "creator": "",
-      "type": "Hörbuch",
-      "rating": 3,
-      "comment": "",
-      "createdAt": 1780722320358,
-      "cardUrl": "https:\/\/raw.githubusercontent.com\/birdbrain1991\/reviews\/main\/cards\/2.png"
     }
   ]
 }
