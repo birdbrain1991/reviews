@@ -1,0 +1,15 @@
+{
+  "updated": 1780721699437,
+  "reviews": [
+    {
+      "id": 1,
+      "title": "test",
+      "creator": "test",
+      "type": "Film",
+      "rating": 5,
+      "comment": "test rss feed",
+      "createdAt": 1780721697345,
+      "cardUrl": "https:\/\/raw.githubusercontent.com\/birdbrain1991\/reviews\/main\/cards\/1.png"
+    }
+  ]
+}
